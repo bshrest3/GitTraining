@@ -1,1 +1,3 @@
-Hi this is git tutorial
+Hi This is git tutorial
+
+Adding a new line.
